@@ -1,0 +1,5 @@
+print("Calculator Program")
+first_number = input("first number")
+second_number = input("second number")
+third_number = input("third number")
+print(first_number + second_number + third_number)
